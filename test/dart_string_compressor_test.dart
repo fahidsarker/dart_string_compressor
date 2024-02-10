@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:dart_string_compressor/dart_string_compressor.dart';
 import 'package:flutter_test/flutter_test.dart';
 

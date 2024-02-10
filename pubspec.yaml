@@ -1,7 +1,8 @@
 name: dart_string_compressor
 description: "A lightweight packgae to compress and decompress strings"
-version: 0.0.1
-homepage:
+version: 1.0.3
+homepage: https://github.com/fahidsarker/dart_string_compressor
+repository: https://github.com/fahidsarker/dart_string_compressor
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
@@ -16,11 +17,21 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
 flutter:
+
 
   # To add assets to your package, add an assets section, like this:
   # assets:
